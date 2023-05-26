@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+    background-color: rgb(38, 0, 114);
+}
+
+.logo{
+    display: inline-block;
+    padding: 20px 60px;
+
+}
+
+.logo a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 50px;
+}
+.nav{
+    float: right;
+    padding: 20px 100px;
+    
+}
+
+.nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 40px;
+}
+
+.nav a:hover{
+cursor: pointer;
+color: coral;
+}
+
+
+.banner{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.banner img{
+    width: 80%;
+    height: 800px;
+    border-radius: 50px;
+    
+}
